@@ -9,7 +9,7 @@ The final dataset is derived from EEG recordings of 55 participants engaged in a
 
 ## Usage
 
-After preprocessing, the data is organized into a `900 x 387` double matrix for each participant, with the rows representing trials and the columns encapsulating various data points:
+After preprocessing, the data is organized into a `1800 x 387` double matrix for each participant, with the rows representing trials and the columns encapsulating various data points:
 
 - **Column 1**: Numerical representation of characters (A-Z, 1-9, and underscore '_'). Each number corresponds to the targeted character in the speller matrix during each trial.
 
